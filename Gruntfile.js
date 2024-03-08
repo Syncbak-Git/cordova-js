@@ -29,7 +29,9 @@ module.exports = function (grunt) {
             osx: {},
             windows: { useWindowsLineEndings: true },
             browser: {},
-            electron: {}
+            electron: {},
+            "sectv-tizen": {},
+            "tv-webos": {}
         },
         clean: ['pkg']
     });
