@@ -35,5 +35,9 @@
     "karma-coverage": "^2.0.3",
     "karma-jasmine": "^4.0.1",
     "puppeteer": "^10.1.0"
+  },
+  "cordova-platforms": {
+    "cordova-sectv-tizen": "../cordova-sectv-tizen",
+    "cordova-tv-webos": "../cordova-tv-webos"
   }
 }
